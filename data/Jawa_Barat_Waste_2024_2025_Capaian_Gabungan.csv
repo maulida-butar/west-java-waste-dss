@@ -1,0 +1,34 @@
+Tahun,Provinsi,Kabupaten/Kota,Timbulan_Sampah_Tahunan_ton,Pengurangan_Sampah_tahunan_ton,%Pengurangan,Penanganan_Sampah_tahunan_ton,%Penanganan,Sampah_Terkelola_tahunan_ton,%Sampah_Terkelola,Daur_Ulang_ton,Bahan_Baku_ton,Recycling_Rate,P1_P2,Landfill_Type
+2024,Jawa Barat,Kab. Cianjur,462637.87,0,0,3370.23,0.73,3370.23,0.73,0,3370.23,0.73,P 2,Open Dumping
+2024,Jawa Barat,Kab. Bandung,478956.72,12.05,0,174748.98,36.49,174761.04,36.49,12.05,116713.98,24.37,P 2,Open Dumping
+2024,Jawa Barat,Kab. Garut,418262.61,58.58,0.01,55933.38,13.37,55991.96,13.39,0,55933.38,13.37,P 2,Open Dumping
+2024,Jawa Barat,Kab. Ciamis,182871.42,1661.04,0.91,146072.98,79.88,147734.02,80.79,0,105338.98,57.6,P 2,Controlled Landfill
+2024,Jawa Barat,Kab. Kuningan,179838.71,1952.28,1.09,17410.34,9.68,19362.62,10.77,0,17045.34,9.48,P 2,Open Dumping
+2024,Jawa Barat,Kab. Majalengka,342527.64,0,0,0,0,0,0,0,0,0,P 2,Open Dumping
+2024,Jawa Barat,Kab. Sumedang,176030.01,0,0,9106.6,5.17,9106.6,5.17,0,9106.6,5.17,P 2,Open Dumping
+2024,Jawa Barat,Kab. Indramayu,414835.78,360.52,0.09,109146.66,26.31,109507.18,26.4,65.34,33989.51,8.21,P 2,Open Dumping
+2024,Jawa Barat,Kab. Purwakarta,152672.78,0,0,4465.17,2.92,4465.17,2.92,0,4465.17,2.92,P 2,Open Dumping
+2024,Jawa Barat,Kab. Karawang,389444.24,0,0,6331.15,1.63,6331.15,1.63,0,6331.15,1.63,P 2,Open Dumping
+2024,Jawa Barat,Kab. Bekasi,614462.32,0,0,1769.17,0.29,1769.17,0.29,0,1769.17,0.29,P 2,Open Dumping
+2024,Jawa Barat,Kab. Bandung Barat,275091.74,739.49,0.27,18148.81,6.6,18888.3,6.87,739.49,9801.26,3.83,P 2,Open Dumping
+2024,Jawa Barat,Kab. Pangandaran,64993.07,0,0,2504.09,3.85,2504.09,3.85,0,2504.09,3.85,P 2,Open Dumping
+2024,Jawa Barat,Kota Bogor,275707.63,57527.5,20.87,200886.69,72.86,258414.19,93.73,57314.42,10086.59,24.45,P 2,Controlled Landfill
+2024,Jawa Barat,Kota Bandung,546151.49,520.95,0.1,119175.65,21.82,119696.6,21.92,520.95,119175.65,21.92,P 2,Open Dumping
+2024,Jawa Barat,Kota Cirebon,78969.28,16.83,0.02,8576.77,10.86,8593.6,10.88,4.11,8576.77,10.87,P 2,Open Dumping
+2024,Jawa Barat,Kota Bekasi,645426.98,0,0,38129.21,5.91,38129.21,5.91,0,38129.21,5.91,P 2,Open Dumping
+2024,Jawa Barat,Kota Depok,497529.02,0,0,80699.09,16.22,80699.09,16.22,0,80699.09,16.22,P 2,Open Dumping
+2024,Jawa Barat,Kota Tasikmalaya,122229.45,0,0,22024.54,18.02,22024.54,18.02,0,22024.54,18.02,P 2,Open Dumping
+2024,Jawa Barat,Kota Banjar,31828,0,0,28314.46,88.96,28314.46,88.96,0,10371.06,32.58,P 2,Controlled Landfill
+2025,Jawa Barat,Kab. Bogor,1037020.3,22051.89,2.13,318660.69,30.73,340712.58,32.85,22051.89,318642.44,32.85,P 1,Open Dumping
+2025,Jawa Barat,Kab. Cianjur,400161.44,3736.29,0.93,9001.71,2.25,12737.99,3.18,3711.69,9001.71,3.18,P 1,Open Dumping
+2025,Jawa Barat,Kab. Garut,423450.24,0,0,57555.97,13.59,57555.97,13.59,0,57555.97,13.59,P 1,Open Dumping
+2025,Jawa Barat,Kab. Ciamis,184884.18,2203.6,1.19,149893.3,81.07,152096.91,82.27,498.04,120620.3,65.51,P 1,Controlled Landfill
+2025,Jawa Barat,Kab. Kuningan,182181.87,1952.28,1.07,17995.3,9.88,19947.58,10.95,0,17995.3,9.88,P 1,Open Dumping
+2025,Jawa Barat,Kab. Cirebon,456230.47,0,0,9050.88,1.98,9050.88,1.98,0,9050.88,1.98,P 1,Open Dumping
+2025,Jawa Barat,Kab. Sumedang,179092.36,10.14,0.01,16963.16,9.47,16973.3,9.48,8.34,16963.16,9.48,P 1,Open Dumping
+2025,Jawa Barat,Kab. Indramayu,419174.73,1099.1,0.26,106962.85,25.52,108061.95,25.78,799.35,31839.28,7.79,P 1,Open Dumping
+2025,Jawa Barat,Kab. Bekasi,836473.27,0,0,9171.53,1.1,9171.53,1.1,0,9171.53,1.1,P 1,Open Dumping
+2025,Jawa Barat,Kota Bogor,275707.63,57517.39,20.86,198249.75,71.91,255767.13,92.77,57304.31,10274.75,24.51,P 1,Controlled Landfill
+2025,Jawa Barat,Kota Cirebon,78969.28,43.51,0.06,8635.29,10.93,8678.8,10.99,2.96,8635.29,10.94,P 1,Open Dumping
+2025,Jawa Barat,Kota Tasikmalaya,121962.85,0,0,20160.14,16.53,20160.14,16.53,0,20160.14,16.53,P 1,Open Dumping
+2025,Jawa Barat,Kota Banjar,31984.66,7439.56,23.26,22656.36,70.84,30095.92,94.09,7439.56,7260.66,45.96,P 1,Controlled Landfill
